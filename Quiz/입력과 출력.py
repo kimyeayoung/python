@@ -16,3 +16,4 @@ print(" ")
 print("저의 반려동물은",animal,"이며 이름은",name,"입니다.",adjective1,"(이)고",color1,"이며",adjective2,"니다.")
 print(noun1,"은(는)",noun2,noun3,noun4,"을(를) 먹습니다.") 
 print("가장 좋아하는 장난감은",adjective3,color2,noun4,"입니다.")
+

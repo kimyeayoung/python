@@ -13,3 +13,4 @@ print("주사위 숫자",num1)
 choices1=[num1,num2,num3]
 cointoss2=random.choices(choices1)
 print(cointoss2,"입니다.")
+

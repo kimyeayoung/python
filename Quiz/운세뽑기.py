@@ -9,3 +9,4 @@ choices=["오늘은 매우 좋은 하루가 될 거에요!","오늘은 조금 �
          ,"건강에 조금 더 신경쓰세요.물 많이 마시는 것을 잊지 마세요"]
 cointoss=random.choice(choices)
 print(cointoss)
+

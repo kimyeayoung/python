@@ -6,3 +6,4 @@ print(age)
 print(name)
 print("안녕하세요",name,"님, 반갑습니다","당신은",age,"살 입니다.")
 print(x)
+

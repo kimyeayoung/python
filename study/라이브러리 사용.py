@@ -14,3 +14,4 @@ print("지금은",today.day,"일입니다.")
 #today.weekday()
 
 print("지금은",today.weekday(),"주입니다.")
+

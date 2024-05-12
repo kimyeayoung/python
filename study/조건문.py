@@ -24,3 +24,4 @@ year=int("2011")
 num=input("숫자를 입력하시오")
 num=int(num)
 print(type(num))
+
